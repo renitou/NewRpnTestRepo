@@ -1,0 +1,6 @@
+- Installer conteneur de dépendence injectée, NInject par exemple.
+- installer swashbuckle, pour avoir une bonne interface client.
+- Ecrire les actions méthode attendu.
+- mapper le model relationnel du domain à une base de données pour en générer le model relationnel de table
+- Ajouter un logger (Ilogger) et l'injecté via le constructeur aux repositories, au controleur "Values" au RpnDbContext, et à la classe Operation.
+- Ajouter un projet de tests unitaires
